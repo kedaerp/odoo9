@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](http://runbot.odoo.com/runbot/badge/flat/1/9.0.svg)](http://runbot.odoo.com/runbot)
 [![Tech Doc](http://img.shields.io/badge/9.0-docs-8f8f8f.svg?style=flat)](http://www.odoo.com/documentation/9.0)
 [![Help](http://img.shields.io/badge/9.0-help-8f8f8f.svg?style=flat)](https://www.odoo.com/forum/help-1)
@@ -37,3 +38,6 @@ To fetch odoo merge pull requests refs use this command:
 
     $ ./odoo.py setup_git_review
 
+=======
+# odoo9
+>>>>>>> d4dfcea979dcdbf9f888608c2f457cbb3715950e
